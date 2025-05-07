@@ -17,24 +17,13 @@ At eSkore, we're transforming how grassroots sports operate by building technolo
 
 ## 🏆 What We're Building
 
-eSkore is a comprehensive sports platform that:
+eSkore delivers a comprehensive sports platform that:
 
-- 🥇 **Helps athletes get discovered** through performance tracking and profile showcasing
-- 👨‍🏫 **Empowers coaches to manage talent** with intuitive team management tools
-- 🏟️ **Enables teams to organize tournaments** with professional-grade scheduling and brackets
-- 📊 **Tracks scores and statistics** to provide meaningful performance insights
-- 📱 **Connects the sports community** through a modern, accessible platform
-
-## 💻 Our Projects
-
-| Repository | Description | Status |
-|------------|-------------|--------|
-| [eSkore Frontend](https://github.com/eskore-org/frontend) | The React-based user interface for the eSkore platform | In Development |
-| [eSkore Backend](https://github.com/eskore-org/backend) | The Node.js API powering eSkore's data and services | In Development |
-
-## 🔄 Development Status
-
-eSkore is currently in active development by a small, dedicated team. We're working hard to bring our vision to life and are excited to share our progress with the community.
+- **🏃‍♂️ For Athletes**: Performance tracking, skills showcasing, and discovery opportunities
+- **👨‍🏫 For Coaches**: Talent identification, team management, and player development tools
+- **🏟️ For Organizers**: Tournament creation, scheduling, and bracket management
+- **📊 For Teams**: Statistics tracking, performance analytics, and roster management
+- **🌐 For Communities**: Connection through a modern, accessible platform
 
 ## 🛠️ Technology Stack
 
@@ -51,6 +40,29 @@ We're just getting started, and we're looking for passionate individuals who sha
 - **Contribute** once we open for public contributions (coming soon!)
 - **Provide feedback** on our existing projects and documentation
 
+## 📱 Key Features
+
+- **Advanced Performance Analytics**: Track and visualize comprehensive statistics
+- **Profile Showcasing**: Digital profiles highlighting athlete achievements
+- **Tournament Management**: End-to-end tools for running successful tournaments
+- **Team Management**: Streamlined roster management and communication
+- **Mobile Experience**: Access eSkore anywhere, anytime (coming soon)
+
+## 🛣️ Project Roadmap
+
+- **Q3 2025**: Public beta launch
+- **Q4 2025**: Mobile application release
+- **Q1 2026**: Advanced analytics and team management features
+- **Q2 2026**: Tournament organization platform expansion
+
+## 👥 Our Team
+
+eSkore is being built by a dedicated team passionate about sports and technology. Based in Canada, our founders combine expertise in software development, sports management, and product design to create a platform that truly serves the needs of the sports community.
+
+## 🌱 Current Status
+
+eSkore is in active development with our frontend and backend repositories. We're building a solid foundation with a focus on user experience, performance, and security. Our repositories are currently private as we establish core functionality.
+
 ## 📬 Connect With Us
 
 - **Website**: [www.eskore.com](https://www.eskore.com)
@@ -64,6 +76,6 @@ Our projects are licensed under the MIT License - see individual repositories fo
 ---
 
 <div align="center">
-  <p>© 2023 eSkore. All rights reserved.</p>
+  <p>© 2025 eSkore. All rights reserved.</p>
   <p>Made with ❤️ for the sports community</p>
 </div>
