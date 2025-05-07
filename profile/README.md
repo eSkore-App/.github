@@ -10,7 +10,7 @@
 
 ## 🎮 About eSkore
 
-eSkore is a comprehensive tournament management solution built specifically for esports organizers, teams, and players. Our platform streamlines the entire process from registration to results, offering real-time scoring, statistics, and audience engagement features.
+eSkore is a comprehensive tournament management solution built specifically for Soccer organizers, teams, and players. Our platform streamlines the entire process from registration to results, offering real-time scoring, statistics, and audience engagement features.
 
 ## 🚀 Our Mission
 
