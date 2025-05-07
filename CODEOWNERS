@@ -1,0 +1,11 @@
+# Default owners for everything
+* @Uniquelimbu @Pravakar-RijaI
+
+# Frontend specific files
+/frontend/ @Uniquelimbu @Pravakar-RijaI
+
+# Backend specific files
+/backend/ @Uniquelimbu @Pravakar-RijaI
+
+# Documentation
+*.md @Uniquelimbu @Pravakar-RijaI
