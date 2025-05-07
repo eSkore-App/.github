@@ -12,6 +12,9 @@ This repository contains organization-wide GitHub configurations and templates f
 
 The repository is organized as follows:
 
+- **ISSUE_TEMPLATE/** - Issue templates for bug reports and feature requests
+- **PULL_REQUEST_TEMPLATE/** - PR templates to standardize code contributions
+- **workflows/** - Reusable GitHub Actions workflow templates
 - **profile/** - Organization profile configuration
   - **README.md** - Public organization profile content
 - **README.md** - This file
