@@ -12,6 +12,8 @@ This repository contains organization-wide GitHub configurations and templates f
 
 The repository is organized as follows:
 
+- **CODEOWNERS** - Define automatic reviewers for specific files and directories
+- **SECURITY.md** - Security policy and vulnerability reporting procedure
 - **ISSUE_TEMPLATE/** - Issue templates for bug reports and feature requests
 - **PULL_REQUEST_TEMPLATE/** - PR templates to standardize code contributions
 - **workflows/** - Reusable GitHub Actions workflow templates
@@ -27,6 +29,7 @@ This repository serves several key purposes:
 2. **Standardized Processes**: Provides templates for consistent issues, PRs, and workflows
 3. **Organization Profile**: Houses our public-facing organization README
 4. **Workflow Templates**: Contains reusable CI/CD workflows for our repositories
+5. **Security Guidelines**: Defines how security vulnerabilities should be reported
 
 ## Usage Guidelines
 
@@ -51,6 +54,10 @@ Pull request templates help ensure that code contributions include all necessary
 
 Workflow templates in the `workflows` directory can be shared across repositories in our organization, enabling consistent CI/CD processes.
 
+### CODEOWNERS
+
+The CODEOWNERS file defines which team members are automatically requested for review when a pull request changes specific files.
+
 ## Contributing
 
 When contributing to this repository, please:
@@ -69,6 +76,7 @@ This repository is maintained by the eSkore development team. For questions or i
 - [GitHub Docs: Creating an organization profile README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 - [GitHub Docs: About issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
 - [GitHub Docs: Sharing workflows with your organization](https://docs.github.com/en/actions/using-workflows/sharing-workflows-with-your-organization)
+- [GitHub Docs: About code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
 ---
 
