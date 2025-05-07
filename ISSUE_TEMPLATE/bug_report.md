@@ -21,6 +21,12 @@ assignees: ''
 ## Actual Behavior
 <!-- What actually happened -->
 
+## Error Details
+- **HTTP Status:** 
+- **Error Code:** 
+- **Error Message:** 
+<!-- If applicable, add error messages, API responses, or HTTP status codes -->
+
 ## Screenshots/Videos
 <!-- If applicable, add screenshots or videos to help explain the problem -->
 
